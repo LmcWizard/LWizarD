@@ -1,6 +1,6 @@
 <item>
 <title>[B]A Origem dos Guardiões[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17jQoGk9xDi3IveLdEBw1qmUQ_kd0-XBV/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=17jQoGk9xDi3IveLdEBw1qmUQ_kd0-XBV</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fCGq0extBvZd5456bXdJ26ujeG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5oULqegVKFW58cgSxPd5DHE81yN.jpg</fanart>
 <info>As crianças do mundo inteiro são protegidas por um seleto grupo de guardiões: Papai Noel, Fada do Dente, Coelho da Páscoa e Sandman. São eles que garantem a inocência e as lendas infantis. Mas um espírito maligno, o Breu, pretende transformar todos os sonhos em pesadelo, despertando medo em todas as crianças. Para combater este adversário poderoso, a Lua designa um novo guardião para ajudar o grupo: Jack Frost, um garotinho invisível que controla o inverno. Sem conhecer sua própria vocação de guardião, ele embarca em uma aventura na qual vai descobrir tanto sobre as crianças quanto sobre seu próprio passado.</info>
@@ -8,7 +8,7 @@
 
 <item>
 <title>[B]Não sei[/B]</title>
-<link>plugin://plugin.onedrive/?action=play&item_id=EYfjFiXtSGlDhBKwkRyNzI4BNmD8cn4sqijXv49nb6X4hw&content_type=video</link>
+<link>plugin://plugin.video.onedrive/?mode=stream&amp;id=EYfjFiXtSGlDhBKwkRyNzI4BNmD8cn4sqijXv49nb6X4hw&content_type=video</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fCGq0extBvZd5456bXdJ26ujeG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5oULqegVKFW58cgSxPd5DHE81yN.jpg</fanart>
 <info></info>
