@@ -8,24 +8,8 @@
 
 <item>
 <title>[B]Não sei[/B]</title>
-<link>plugin://plugin.video.onedrive/?mode=stream&amp;url=https://jxjjxy-my.sharepoint.com/:v:/g/personal/lmcwizardanime_t_odmail_cn/EYfjFiXtSGlDhBKwkRyNzI4BEWqWLBGqPkodPxjUl000Lw&content_type=video</link>
+<link>http://ns3090233.ip-145-239-206.eu/video/13101.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fCGq0extBvZd5456bXdJ26ujeG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5oULqegVKFW58cgSxPd5DHE81yN.jpg</fanart>
 <info></info>
-</item>
-
-<item>
-<title>[COLOR gold]Medabots - Dublado [/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLmVFsMU9OF5__9M3r0YhI2EyCZLcciuS0/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/hZ0m62U.jpg</thumbnail>
-<fanart>https://i.imgur.com/hZ0m62U.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR gold]Berserk - Dublado [/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLpTXZNWIOQ3rm5vNDkX4EXCo5AMjJurhk/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/GTVqK6k.jpg</thumbnail>
-<fanart>https://i.imgur.com/GTVqK6k.jpg</fanart>
 </item>
